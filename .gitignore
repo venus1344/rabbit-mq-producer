@@ -1,0 +1,6 @@
+# Ignore actual config but allow example
+src/main/resources/config.properties
+.vscode/
+
+# Build output
+target/

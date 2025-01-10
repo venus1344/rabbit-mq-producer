@@ -1,0 +1,9 @@
+# RabbitMQ Connection URI
+rabbitmq.uri=amqp://username:password@host:port
+
+# these keys are to be shared with the consumer
+# Secret key for HMAC (32 characters)
+secret.key=your-32-character-secret-key-here
+
+# Encryption key for AES (32 characters)
+encryption.key=your-32-character-encryption-key-here 
